@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Text to enter
-=======
-New comment for reset the line.
->>>>>>> develop
