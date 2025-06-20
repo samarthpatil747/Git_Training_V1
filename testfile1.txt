@@ -1,3 +1,4 @@
 This is test file for the git
 How are you?
 New line
+New line for reset
