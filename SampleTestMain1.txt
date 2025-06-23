@@ -3,3 +3,4 @@ New comment for reset the line.
 
 Text to enter
 
+Text for git stash add in file after stash 
